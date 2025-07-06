@@ -4,7 +4,7 @@
 # 🚀 GitGroover: Proof-of-Development (PoD) Protocol  
 ### *Mine Crypto by Writing Code, Not Burning Electricity*
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://app.gitgroover.xyz)  
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://www.youtube.com/watch?v=EYq8cMIYAPQ)  
 [![Whitepaper](https://img.shields.io/badge/whitepaper-read-blue)](https://gitgroover.xyz/whitepaper)  
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)  
 
